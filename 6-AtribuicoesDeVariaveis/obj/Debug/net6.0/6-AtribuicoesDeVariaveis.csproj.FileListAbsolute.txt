@@ -1,0 +1,15 @@
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.exe
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.deps.json
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.dll
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.pdb
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.dll
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\refint\6-AtribuicoesDeVariaveis.dll
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.pdb
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.genruntimeconfig.cache
+C:\AprendendoCSharp\aula1\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\ref\6-AtribuicoesDeVariaveis.dll
